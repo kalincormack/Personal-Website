@@ -2,9 +2,8 @@
 
 My name is Kalin Annice Cormack, I am a senior ISAT major at James Madison University concentrating in Enviornmnet and sectoring in Energy. I am also a memeber of the Alpha Phi Fraternity. I am from Arlington, Virginia, but currently reside in Harrisonburg, Virginia for school. If you would like to know more about my education and career, you can visit my online resume at https://kalincormack.github.io/Resume/ .
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Interests
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
