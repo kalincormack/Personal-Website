@@ -9,7 +9,7 @@ In my free time, I enjoy working on jigsaw puzzles, sudokus, and crossword puzzl
 
 <body>
 
-<h2>My Friend and I on the Frazier Discovery Trail in the Shenandoah National Park</h2>
+<h4>My Friend and I on the Frazier Discovery Trail in the Shenandoah National Park</h4>
 <img src="IMG_9469.JPG" alt="My Friend and I on the Frazier Discovery Trail in the Shenandoah National Park" width="500" height="333">
 
 </body>
