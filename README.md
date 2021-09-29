@@ -7,6 +7,13 @@ My name is Kalin Cormack, I am a senior ISAT major at James Madison University c
 
 In my free time, I enjoy working on jigsaw puzzles, sudokus, and crossword puzzles. Some outdoor activies I enjoy is hiking and going on walks. Pictured below is my friend and I on a hike in the Shenandoah National Park. 
 
+<body>
+
+<h2>My Friend and I on the Frazier Discovery Trail in the Shenandoah National Park</h2>
+<img src="IMG_9469.JPG" alt="My Friend and I on the Frazier Discovery Trail in the Shenandoah National Park" width="500" height="333">
+
+</body>
+
 ```markdown
 Syntax highlighted code block
 
