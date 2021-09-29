@@ -5,7 +5,7 @@ My name is Kalin Cormack, I am a senior ISAT major at James Madison University c
 
 ### Interests
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In my free time, I enjoy working on jigsaw puzzles, sudokus, and crossword puzzles. Some outdoor activies I enjoy is hiking and going on walks. Pictured below is my friend and I on a hike in the Shenandoah National Park. 
 
 ```markdown
 Syntax highlighted code block
