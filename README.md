@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Kalin Cormack's Personal Website
 
-You can use the [editor on GitHub](https://github.com/kalincormack/Personal-Website/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+My name is Kalin Annice Cormack, I am a senior ISAT major at James Madison University. I am also a memeber of the Alpha Phi Fraternity. I am from Arlington, Virginia, but currently reside in Harrisonburg, Virginia for school.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
