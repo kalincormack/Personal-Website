@@ -1,3 +1,7 @@
+<html>
+  <head>
+    <title>Kalin Cormack's Personal Website</title>
+  </head>
 ## Welcome to Kalin Cormack's Personal Website
 
 My name is Kalin Annice Cormack, I am a senior ISAT major at James Madison University concentrating in Enviornmnet and sectoring in Energy. I am also a memeber of the Alpha Phi Fraternity. I am from Arlington, Virginia, but currently reside in Harrisonburg, Virginia for school. If you would like to know more about my education and career, you can <a href="https://kalincormack.github.io/Resume/">visit my online resume here</a>.
