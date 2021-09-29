@@ -5,7 +5,7 @@ My name is Kalin Cormack, I am a senior ISAT major at James Madison University c
 
 ### Interests
 
-In my free time, I enjoy working on jigsaw puzzles, sudokus, and crossword puzzles. Some outdoor activies I enjoy is hiking and going on walks. Pictured below is my friend and I on a hike in the Shenandoah National Park. 
+In my free time, I enjoy working on jigsaw puzzles, sudokus, and crossword puzzles. Some outdoor activies I enjoy is hiking and going on walks. The picture below is from one of my last hikes in the Shenandoah National Park. 
 
 <body>
 
