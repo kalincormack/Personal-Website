@@ -1,11 +1,19 @@
 ## Kalin's Personal Website
 
+<body>
+  
 <p style="color:blue">My name is Kalin Cormack, I am a senior ISAT major at James Madison University concentrating in Enviornmnet and sectoring in Energy. I am also a memeber of the Alpha Phi Fraternity. I am from Arlington, Virginia, but currently reside in Harrisonburg, Virginia for school. If you would like to know more about my education and career, you can visit my online resume <a href="https://kalincormack.github.io/Resume/">here</a>.</p>
+  
+</body>  
 
 
 ### Interests
 
-In my free time, I enjoy working on jigsaw puzzles, sudokus, and crossword puzzles. Some outdoor activies I enjoy is hiking and going on walks. The picture below is from one of my last hikes in the Shenandoah National Park. 
+<body>
+
+<p style="color:blue">In my free time, I enjoy working on jigsaw puzzles, sudokus, and crossword puzzles. Some outdoor activies I enjoy is hiking and going on walks. The picture below is from one of my last hikes in the Shenandoah National Park.</p>
+
+</body>
 
 <body>
 
