@@ -23,11 +23,14 @@
 </body>
 
 ```markdown
-My Pets
+<h2>My Pets</h2>
 
-# Cody and Mittens
-## Header 2
-### Header 3
+<body>
+<p>Cody and Mittens</p>
+
+  <p>Cody is a 13 year old Fox Red Lab</p>
+  <p>Mittens is about 8 years old and is a polydactyl!</p>
+</body>
 
 - Bulleted
 - List
