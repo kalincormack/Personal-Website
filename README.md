@@ -22,26 +22,17 @@
 
 </body>
 
-```markdown
+<body>
 <h2>My Pets</h2>
 
-<body>
 <p>Cody and Mittens</p>
 
   <p>Cody is a 13 year old Fox Red Lab</p>
   <p>Mittens is about 8 years old and is a polydactyl!</p>
+  
 </body>
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
