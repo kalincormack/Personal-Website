@@ -32,9 +32,11 @@
   <p>...They are also best friends</p>
   
   <p>Here are some better photos showing Cody's fox red fur and Mittens' paws.</p>
-  <img src="1923246_1111486860208_2709053_n.jpg" alt="Cody and his fox red fur" width="250" height="350" 
-  <img src="Screen Shot 2021-10-05 at 3.23.44 PM.png" alt="Mittens' paws" width="250" height="250"
   
+  <img src="1923246_1111486860208_2709053_n.jpg" alt="Cody and his fox red fur" width="250" height="350" 
+       
+  <img src="Screen Shot 2021-10-05 at 3.23.44 PM.png" alt="Mittens' Paws" width="250" height="250"
+
 </body>
 
 
