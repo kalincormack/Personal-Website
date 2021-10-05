@@ -33,11 +33,11 @@
   
   <p>Here are is a better photo showing Cody's fox red fur...</p>
   
-<img src="1923246_1111486860208_2709053_n.jpg" alt="Cody and his fox red fur" width="250" height="350" 
+  <img src="1923246_1111486860208_2709053_n.jpg" alt="Cody and his fox red fur" width="250" height="350" 
       
   <p>...and Mittens' Paws</p>
        
-<img src="Screen Shot 2021-10-05 at 3.23.44 PM.png" alt="Mittens' Paws" width="250" height="250"
+  <img src="Screen Shot 2021-10-05 at 3.23.44 PM.png" alt="Mittens' Paws" width="250" height="250"
 
 </body>
 
