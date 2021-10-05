@@ -17,15 +17,15 @@
 
 <body>
 
-<h5 style="color:darkolivegreen">My friend and I on the Frazier Discovery Trail in the Shenandoah National Park</h5>
+<h5>My friend and I on the Frazier Discovery Trail in the Shenandoah National Park</h5>
 <img src="IMG_9469.JPG" alt="My Friend and I on the Frazier Discovery Trail in the Shenandoah National Park" width="350" height="450">
 
 </body>
 
 ```markdown
-Syntax highlighted code block
+My Pets
 
-# Header 1
+# Cody and Mittens
 ## Header 2
 ### Header 3
 
