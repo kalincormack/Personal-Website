@@ -35,10 +35,10 @@
   
   <div class="row">
   <div class="column">
-    <img src="1923246_1111486860208_2709053_n.jpg" alt="Cody's fox red fur" style="width:100%">
+    <img src="1923246_1111486860208_2709053_n.jpg" alt="Cody's fox red fur" style="width:50%">
   </div>
   <div class="column">
-    <img src="Screen Shot 2021-10-05 at 3.23.44 PM.png" alt="Mittens' paws" style="width:100%">
+    <img src="Screen Shot 2021-10-05 at 3.23.44 PM.png" alt="Mittens' paws" style="width:50%">
   </div>
   
   <img src="1923246_1111486860208_2709053_n.jpg" alt="Cody and his fox red fur" width="250" height="350">
