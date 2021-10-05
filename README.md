@@ -26,12 +26,13 @@
   
   <h3>My Pets, Cody and Mittens</h3>
 
-  <p>Cody is a 13 year old Fox Red Lab and Mittens is about 8 years old and a polydactyl cat!</p>
+  <p>Cody is a 13 year old fox red Lab and Mittens is about 8 years old and a polydactyl cat!</p>
   
   <img src="Screen Shot 2021-10-05 at 3.08.27 PM.png" alt="Cody and Mittens" width="350" height="350">
   <p>...They are also best friends</p>
   
   <p>Here are some better photos showing Cody's fox red fur and Mittens' paws.</p>
+  <img src="1923246_1111486860208_2709053_n.jpg" alt="Cody and his fox red fur" width="250" height="250" 
   
 </body>
 
