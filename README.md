@@ -23,7 +23,7 @@
 </body>
 
 <body>
-<h2>My Pets</h2>
+  <h3>My Pets</h3>
 
 <p>Cody and Mittens</p>
 
