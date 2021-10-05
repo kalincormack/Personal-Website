@@ -23,9 +23,7 @@
 </body>
 
 <body>
-  <h3>My Pets</h3>
-
-<p>Cody and Mittens</p>
+  <h3>My Pets, Cody and Mittens</h3>
 
   <p>Cody is a 13 year old Fox Red Lab</p>
   <p>Mittens is about 8 years old and is a polydactyl!</p>
