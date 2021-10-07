@@ -18,7 +18,7 @@
 <body>
 
 <h5>My friend and I on the Frazier Discovery Trail in the Shenandoah National Park</h5>
-<img src="IMG_9469.JPG" alt="My Friend and I on the Frazier Discovery Trail in the Shenandoah National Park" width="350" height="450" class="center">
+<img src="IMG_9469.JPG" alt="My Friend and I on the Frazier Discovery Trail in the Shenandoah National Park" class="center" width="350" height="450">
 
 </body>
 
