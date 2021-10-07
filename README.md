@@ -105,7 +105,7 @@
     <img src="IMG_0456.JPG" alt="Midnight" style="width:100%">
   </div>
      <div class="column">
-    <img src="IMG_4945.HEIC" alt="Orchid" style="width:100%">
+    <img src="IMG_4945.jpg" alt="Orchid" style="width:100%">
   </div>
      <div class="column">
     <img src="IMG_0143.heic" alt="Yoshi" style="width:100%">
