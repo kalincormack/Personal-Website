@@ -42,6 +42,41 @@
   </div>
   </div>  
   
+  <head>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+<body>
+
+  <div class="row">
+  <div class="column">
+    <img src="1923246_1111486860208_2709053_n.jpg" alt="Cody's fox red fur" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="Screen Shot 2021-10-05 at 3.08.27 PM.png" alt="Cody and Mittens" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="Screen Shot 2021-10-05 at 3.23.44 PM.png" alt="Mittens' paws" style="width:100%">
+  </div>
+</div>
+
+  </body>  
   
   <div class="row">
   <div class="column">
