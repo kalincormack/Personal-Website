@@ -27,20 +27,7 @@
   <h3>My Pets, Cody and Mittens</h3>
 
   <p>Cody is a 13 year old fox red lab and Mittens is about 8 years old and a polydactyl cat!</p>
-  
-  <img src="Screen Shot 2021-10-05 at 3.08.27 PM.png" alt="Cody and Mittens" width="350" height="350">
-  <p>They are also best friends.</p>
-  
-  <p>Here are is a better photo showing Cody's fox red fur...</p>
-  
-  <div class="row">
-  <div class="column">
-    <img src="1923246_1111486860208_2709053_n.jpg" alt="Cody's fox red fur" style="width:25%">
-  </div>
-  <div class="column">
-    <img src="Screen Shot 2021-10-05 at 3.23.44 PM.png" alt="Mittens' paws" style="width:25%">
-  </div>
-  </div>  
+ 
   
   <head>
 <style>
@@ -77,35 +64,6 @@
 </div>
 
   </body>  
-  
-  <div class="row">
-  <div class="column">
-    <img src="1923246_1111486860208_2709053_n.jpg" alt="Cody's fox red fur" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="Screen Shot 2021-10-05 at 3.08.27 PM.png" alt="Cody and Mittens" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="Screen Shot 2021-10-05 at 3.23.44 PM.png" alt="Mittens' paws" style="width:100%">
-  </div>
-</div>
-  
-  <img src="1923246_1111486860208_2709053_n.jpg" alt="Cody and his fox red fur" width="250" height="350">
-      
-  <p>...and Mittens' Paws</p>
-       
-  <img src="Screen Shot 2021-10-05 at 3.23.44 PM.png" alt="Mittens' Paws" width="250" height="250">
-
-</body>
-
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kalincormack/Personal-Website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ <body>
+   <p>They are also best freinds.</p>
+  </body>
