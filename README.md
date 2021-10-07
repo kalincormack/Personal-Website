@@ -72,3 +72,42 @@
     <h3>Fostering Cats</h3>
     <p>Although I have never been a foster mom, I've helped my two roommates along the way. We have had five foster cats in 2021, all of which have been adopted! Below is Bay, Daisy, Midnight, Orchid, and Yoshi.</p>
     
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 20%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+<body>
+
+  <div class="row">
+  <div class="column">
+    <img src="IMG_4349.HEIC" alt="Bay" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="IMG_0192.HEIC" alt="Daisy" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="IMG_0456.JPG" alt="Midnight" style="width:100%">
+  </div>
+     <div class="column">
+    <img src="IMG_4945.HEIC" alt="Orchid" style="width:100%">
+  </div>
+     <div class="column">
+    <img src="IMG_0143.heic" alt="Yoshi" style="width:100%">
+  </div>
+</div>
