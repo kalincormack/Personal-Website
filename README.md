@@ -67,3 +67,8 @@
  <body>
    <p>They are also best freinds.</p>
   </body>
+  
+  <body>
+    <h3>Fostering Cats</h3>
+    <p>Although I have never been a foster mom, I've helped my two roommates along the way. We have had five foster cats in 2021, all of which have been adopted! Below is Bay, Daisy, Midnight, Orchid, and Yoshi.</p>
+    
