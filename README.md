@@ -11,7 +11,7 @@
 
 <body>
 
-<p>In my free time, I enjoy working on jigsaw puzzles, sudokus, and crossword puzzles. Some outdoor activies I enjoy is hiking and going on walks. The picture below is from one of my last hikes in the Shenandoah National Park.</p>
+<p>In my free time, I enjoy working on jigsaw puzzles, sudokus, and crossword puzzles. Some outdoor activies I enjoy is hiking and going on walks. The picture below is from one of my more recent hikes in the Shenandoah National Park.</p>
 
 </body>
 
