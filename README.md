@@ -96,7 +96,7 @@
 
   <div class="row">
   <div class="column">
-    <img src="IMG_4349.HEIC" alt="Bay" style="width:100%">
+    <img src="IMG_4349.jpg" alt="Bay" style="width:100%">
   </div>
   <div class="column">
     <img src="IMG_0192.HEIC" alt="Daisy" style="width:100%">
